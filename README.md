@@ -1,16 +1,35 @@
-# Communicate using Markdown
+# Markdown Practice Notes 💬
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey arthurcfranklin!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/arthurcfranklin/skills-communicate-using-markdown/issues/1)
+Just testing and organizing everything I’m learning in this module using real examples.  
+Markdown is lightweight, clean, and really useful when it comes to keeping things organized — especially in tech projects.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 📚 What I’ve learned
 
+- How to use headings properly  
+- Unordered and ordered lists  
+- Task lists (checklists)  
+- Code blocks  
+- Adding links and images  
+- A little bit of style with emojis 👨‍💻🔥
+
+---
+
+## ✅ To-Do List (from the module)
+
+- [x] Create a Markdown file  
+- [x] Add headings and lists  
+- [x] Add a task list  
+- [x] Include a code block  
+- [x] Insert an image and a link  
+- [ ] Finish and merge the pull request  
+
+---
+
+## 💻 Code Example
+
+```python
+# Just a simple Python snippet
+name = "Arthur"
+print(f"Welcome, {name}!")
